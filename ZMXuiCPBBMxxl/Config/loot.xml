@@ -1,0 +1,7 @@
+<ZMXuiCPBBMxxl name="loot.xml">
+
+<!--	// SMX // Player Dropped Backpack Size Conversion -->
+
+		<set xpath="/lootcontainers/lootcontainer[@id='2']/@size">12,12</set>
+
+</ZMXuiCPBBMxxl>

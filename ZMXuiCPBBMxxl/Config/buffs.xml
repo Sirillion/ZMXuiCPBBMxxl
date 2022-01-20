@@ -1,0 +1,12 @@
+<ZMXuiCPBBMxxl name="buffs.xml">
+
+<!--	// SMX // God Mode Buff Conversion -->
+
+		<set xpath="/buffs/buff[@name='god']/effect_group/passive_effect[@name='CarryCapacity']/@value">120</set>
+
+
+<!--	// SMX // Steroid Buff Conversion -->
+
+		<set xpath="/buffs/buff[@name='buffDrugSteroids']/effect_group/passive_effect[@name='CarryCapacity']/@value">125</set>
+
+</ZMXuiCPBBMxxl>

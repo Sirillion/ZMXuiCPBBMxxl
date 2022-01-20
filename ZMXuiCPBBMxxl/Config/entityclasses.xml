@@ -1,0 +1,12 @@
+<ZMXuiCPBBMxxl name="entityclasses.xml">
+
+<!--	// SMX // playerMale BagSize Converstion -->
+
+		<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='BagSize']/@value">120</set>
+
+
+<!--	// SMX // playerMale CarryCapacity Conversion (To preserve the PackMule Perk) -->
+
+		<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='CarryCapacity']/@value">102</set>
+
+</ZMXuiCPBBMxxl>
