@@ -1,0 +1,8 @@
+<ZMXuiCPBBMxxl name="XUi_Common/controls.xml">
+
+<!--	// SMX // Big Backpack Window Conversion -->
+
+		<!-- SMX COMMENT: BBM Locked Slots. -->
+		<set xpath="/controls/smxui_window_design_menu_right_inventory/rect[@name='smxui_window_menu_content']/rect[@name='smxui_container_options']/smxui_lockedslots_combobox_vertical[@name='cbxLockedSlots']/@value_max">120</set> <!-- SMX COMMENT: This number = NEW BAGSIZE -->
+
+</ZMXuiCPBBMxxl>
