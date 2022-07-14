@@ -4,9 +4,9 @@
 
 		// EAC:				Non Friendly, SMX requires EAC to be DISABLED.
 
-		// VERSION:			r20.rc3
+		// VERSION:			r20.rc4
 
-		// BUILD:			A20.3
+		// BUILD:			A20.5
 
 		// DISCLAIMER:		Please be advised that this modlet is intended for use with the build mentioned above. That said it may very well be that
 							it can be used with other builds with little to no risk of failure. It all depends on the standard files being updated or not
@@ -14,7 +14,7 @@
 
 		// MOD DESCRIPTION:	The purpose of this modlet is to provide a bigger backpack for your scavenging pleasures. It will give you a 120 slot inventory.
 							
-		// DEPENDENCIES:	SMXlib, SMXui, ZMXuiCP.
+		// DEPENDENCIES:	SMXui.
 
 		// TERMS OF USE:	1. You are allowed to use this modlet as is for your own personal use and/or on a server you run and/or administrate.
 
